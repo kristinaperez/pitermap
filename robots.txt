@@ -20,4 +20,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://https://kristinaperez.netlify.app/sitemap.xml
+Sitemap: https://pitermap.netlify.app/sitemap.xml
